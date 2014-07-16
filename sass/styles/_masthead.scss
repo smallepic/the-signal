@@ -1,0 +1,16 @@
+//
+// Masthead
+// --------------------------------------------------
+
+body > header
+{
+  a
+  {
+    &:hover,
+    &:focus
+    {
+      color: $gray-light;
+      text-decoration: none;
+    }
+  }
+}

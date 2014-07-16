@@ -1,0 +1,8 @@
+destination: public
+exclude: ['sass']
+sass:
+  sass_dir: sass
+  style: :compressed
+name: The Signal
+tagline: Hand picked ideas delivered monthly.
+twitter: '@small_epic'
